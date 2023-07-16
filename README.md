@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![https://i.imgur.com/owfb4Th.png](screenShot.png)
+![imgurImage](https://i.imgur.com/owfb4Th.png)
 
 ### Links
 
-- Solution URL: [Netlify](https://your-solution-url.com)
+- Solution URL: [Netlify](https://melodious-zuccutto-59fbf4.netlify.app/)
 - Live Site URL: [Github](https://github.com/gab0o06)
 ## My process
 
