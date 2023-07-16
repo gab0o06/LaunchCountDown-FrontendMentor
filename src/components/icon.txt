@@ -1,0 +1,14 @@
+interface IconData {
+  alt: string;
+}
+
+export const Icon = ({ alt }: IconData) => {
+  const fetchData = async () => {
+    const data = await fetch(`/assets/icon-${alt}.svg`);
+    console.log(data);
+  };
+
+  fetchData();
+
+  return <img src="" alt="" />;
+};
